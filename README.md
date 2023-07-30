@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shizzle
-- 👀 I’m interested in webdev 
-- 🌱 I’m currently learning how to make better shit on react
-- 💞️ I’m looking to collaborate on idk, projects and stuff
-- 📫 How to reach me by discord tag: Bill Butlicker#9095
+- 👀 I’m interested in buttplugs 
+- 🌱 I’m currently learning how to make better shit on react 
+- 💞️ I’m looking to collaborate on idk, projects and stuff i guess
+- check out my shitty coded websites lmao
+- 
 
 <!---
 shizzle/shizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
