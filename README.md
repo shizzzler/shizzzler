@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shizzle
-- 👀 I’m interested in buttplugs 
+- 👀 I’m interested in buying some morphine 
 - 🌱 I’m currently learning how to make better shit on react 
 - 💞️ I’m looking to collaborate on idk, projects and stuff i guess
 - check out my shitty coded websites lmao
